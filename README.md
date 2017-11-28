@@ -41,11 +41,4 @@ Ideally we should be able to produce an interesting demonstration like
 luck, we might also be content with a survey of the field and a solid
 indepth implementation of a fascinating application of network science!
 
-99 Tenenbaum, Joshua B., et al. "A Global Geometric Framework for
-Nonlinear Dimensionality Reduction\". Science. 2000. Goodfellow, Ian, et
-al. "Generative adversarial nets.\" Advances in neural information
-processing systems. 2014. Bansal, Ankan, et al. "[UMDFaces: An Annotated
-Face Dataset for Training Deep Networks](http://www.umdfaces.io/)\",
-Arxiv preprint, 2016. [Face Recognition
-Homepage](http://www.face-rec.org/databases/) [Chair
-morphing](https://www.youtube.com/watch?v=QCSW4isBDL0)
+
