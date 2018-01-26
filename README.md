@@ -29,7 +29,10 @@ Conclusion : Final Goal
 =======================
 
 We were able to successfully generate the following videos :
+
 [Exhibit A](https://drive.google.com/file/d/175sQA20qGtDfx_1nsfYilVQM5wnDLPZp/view)
+
 [Exhibit B](https://drive.google.com/file/d/1sKCcoBNzzLRFz2pQZzzcJedq4mFZXdLm/view)
+
 [Exhibit C](https://drive.google.com/file/d/1GtPAX8_7TZjPob0pgFtbsjdtgGbvNI0T/view)
 
